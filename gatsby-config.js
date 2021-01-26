@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Sunday Concert`,
+    name: `urtheone`,
+    siteUrl: `https://github.com/urtheone`,
+    description: `Welcome to My personal blog！`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `登高壯觀天地間，大江茫茫去不還`,
       maxWidth: 652,
     },
     social: [
@@ -15,7 +15,7 @@ module.exports = {
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/urtheone`,
       },
       {
         name: `instagram`,
@@ -48,13 +48,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Sunday Concert`,
+        short_name: `Sunday`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`,
+        icon: `src/assets/mylogo.jpeg`,
       },
     },
     {
