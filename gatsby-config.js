@@ -10,10 +10,6 @@ module.exports = {
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
         name: `github`,
         url: `https://github.com/urtheone`,
       },
@@ -54,7 +50,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/mylogo.jpeg`,
+        icon: `src/assets/mylogo.png`,
       },
     },
     {
